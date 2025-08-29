@@ -5,7 +5,7 @@
 
 ## Part 1 - GitHub Profile
 
-1. [YG-70](https://github.com/YG-70/YG-70/blob/main/Lab01.md)
+1. [YG-70][https://github.com/YG-70/YG-70/tree/ma]
 
 ## Part 2 - Research
 
