@@ -1,7 +1,7 @@
 ## Lab 01
 
 - Name:Yoel Tareke
-- Email:
+- Email:tareke.2@wright.edu
 
 ## Part 1 - GitHub Profile
 
